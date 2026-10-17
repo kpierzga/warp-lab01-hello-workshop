@@ -9,3 +9,4 @@ dotnet run
 ```
 ## Kontakt
 Autor: Kacper Pierzga
+Zespół: Warsztat Programisty
