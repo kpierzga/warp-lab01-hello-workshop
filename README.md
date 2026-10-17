@@ -8,4 +8,5 @@ Konsolowa aplikacja C#/.NET utworzona na laboratorium.
 dotnet run
 ```
 ## Kontakt
+Autor: Kacper Pierzga
 Zespół: Warsztat Programisty
